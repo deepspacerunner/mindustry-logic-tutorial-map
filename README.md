@@ -22,3 +22,6 @@ InflaterInputStream.read:181
 ```
 
 Then you may have downloaded the HTML of the file page instead of the file. Either click on the "releases" section of the repo at the right side of your screen and select the correct version, or click on "download raw" at the page that has a toggle between "code" and "blame" accessed by clicking on the file name on the home repository page.
+
+# Licensing
+This work is licensed under Creative Commons 1.0 Universal. This means that the work is dedicated to the public domain. In other words, please DO copy, modify, and redistribute this work in whatever manner you see fit. See the LICENSE file for the full text of the license.
