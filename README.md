@@ -1,7 +1,11 @@
 # About the repo
 This repo contains 2 map files: one labeled v7 and one using a traditional update numbering scheme (1.1, 1.2, etc.). The map file labeled v7 is for build 146 of Mindustry, the outdated version of the game. If for whatever reason you're still using v7, download that file. Mindustry v7 is no longer receiving changes and as such I will no longer be updating the v7 map.
 
-The numbered map is the one I am actively supporting. It should be functional for the latest stable Mindustry version, currently v8 or build 159 (if it's not, send me a message on Discord. My username is "deepspacerunner (ok to ping)").
+**IMPORTANT: This resource is currently unmaintained. The version it was developed for is v7, and the most recent stable version it is confirmed to work on is v8.**
+
+The numbered map is the current most up-to-date one. It should be functional for the latest stable Mindustry version, currently v8 or build 159 (if it's not, you might be out of luck as I'm no longer maintaining this resource. Try looking in the forks section to see if anyone has forked this project, it will likely be more up-to-date if it exists).
+
+If you would like to maintain this resource, contact me on Discord (@deepspacerunner).
 
 
 # Installing the map
